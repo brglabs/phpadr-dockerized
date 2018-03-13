@@ -21,7 +21,7 @@ For example, to create a new ADR
 
 ## Help
 
-For more hel execute the following command:
+For more help execute the following command:
 ```
 ./phpadr.sh <command> --help
 ```
